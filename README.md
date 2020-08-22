@@ -1,4 +1,4 @@
-### Hi there, I'm Navnit - aka [developer][website] 👋
+### Hi there, I'm Navnit - aka developer 👋
 
 ## I'm a Student, Developer, and Friends Mentor !
 - 🔭 I’m currently working on Building Myself !
@@ -20,7 +20,7 @@
 ---
 <img align="left" alt="Navnit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navnit0707&show_icons=true&hide_border=true" />
 
-[website]: https://trickbag.in
+
 [twitter]: https://twitter.com/navnit0707
 [youtube]: https://youtube.com/navnit
 [instagram]: https://instagram.com/portrait.mobile
