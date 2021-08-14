@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Building Myself !
 - 🌱 I’m currently learning  
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2020 Goals: Contribute more to Open Source projects and get a internship
+- 🥅 2021 Goals: Contribute more to Open Source projects and get a internship
 - ⚡ Fun fact: I love travelling , playing games and shaping my innovative ideas into reality
 
 ### Connect with me:
