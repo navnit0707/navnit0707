@@ -2,9 +2,9 @@
 
 ## I'm a Student, Developer, and Friends Mentor !
 - 🔭 I’m currently working on Building Myself !
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning  and implimenting
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2021 Goals: Contribute more to Open Source projects and get a internship
+- 🥅 2022 Goals:get a internship and a good job
 - ⚡ Fun fact: I love travelling , playing games and shaping my innovative ideas into reality
 
 ### Connect with me:
