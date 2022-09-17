@@ -20,11 +20,12 @@
 
 #### Stats
 
-![Navnit's github stats](https://github-readme-stats.vercel.app/api?username=navnit0707&show_icons=true&theme=radical) 
+![Navnit's github stats](https://github-readme-stats.vercel.app/api?username=navnit0707&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=navnit0707&theme=radical)](https://git.io/streak-stats)
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navnit0707&layout=compact&theme=radical)
 
-<br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=navnit0707)](https://git.io/streak-stats)
 
 <br />
 
