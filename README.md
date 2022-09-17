@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Building Myself !
 - 🌱 I’m currently learning  and implimenting
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2022 Goals:get a internship and a good job
+- 🥅 2022 Goals: find a company where i can use my knowledge of development
 - ⚡ Fun fact: I love travelling , playing games and shaping my innovative ideas into reality
 
 #### Languages & Tools
@@ -20,9 +20,10 @@
 
 #### Stats
 
-![Navnit's github stats](https://github-readme-stats.vercel.app/api?username=navnit0707&show_icons=true&theme=radical)
-
+![Navnit's github stats](https://github-readme-stats.vercel.app/api?username=navnit0707&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navnit0707&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=navnit0707)](https://git.io/streak-stats)
 
 
 
