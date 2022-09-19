@@ -24,7 +24,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=navnit0707&theme=radical)](https://git.io/streak-stats)
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navnit0707langs_count=8&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navnit0707&langs_count=8&layout=compact&theme=radical)
 
 
 <br />
