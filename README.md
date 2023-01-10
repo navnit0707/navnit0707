@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Building Myself !
 - 🌱 I’m currently learning  and implimenting
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2022 Goals: find a company where i can use my knowledge of development
+- 🥅 2023 Goals: find a company where i can use my knowledge of development
 - ⚡ Fun fact: I love travelling , playing games and shaping my innovative ideas into reality
 
 #### Languages & Tools
